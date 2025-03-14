@@ -9,6 +9,7 @@
 }*/
 
 /*comentario*/
+/* mas comentarios*/
 // Establecemos el numero de pagina en la que el usuario se encuentra.
 # Esto lo hacemos por el metodo GET, si no hay ningun valor entonces le asignamos la pagina 1.
 $pagina = isset($_GET['pagina']) ? (int)$_GET['pagina'] : 1;
